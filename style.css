@@ -1,0 +1,19 @@
+body {
+    background-color: orange;
+}
+h1{
+    text-align: center;
+    color: red;
+    
+}
+ul{ 
+    list-style: none;
+    display: flex;
+  justify-content: space-around;
+  background-color: burlywood;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-weight: 200;
+  cursor: pointer;
+  margin-bottom: 30px
+}
